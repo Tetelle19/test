@@ -5,4 +5,5 @@ Une musique s'élevait dans la nuit.
 Un homme, le regard dans le vide, plongé dans ses souvenirs.
 Son regard s'illumine lorsqu'une femme sorti de la maison.
 Un enfant depuis l'étage regarda en bas et souri.
-La musique céssa.
+La musique cessa lorsque l'enfant se mis à rêvasser.
+
